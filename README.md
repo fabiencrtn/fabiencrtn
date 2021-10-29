@@ -1,11 +1,5 @@
 ### Hello 👋
 
-# Projects
-
-#[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiencrtn&hide=jupyter%20notebook)](https://github.com/fabiencrtn/)
-
-#[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=&repo=)]()
-
 # Tools
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white)
