@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**fabiencrtn/fabiencrtn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello 👋
 
 # Projects
 
@@ -22,3 +19,7 @@
 ![](https://img.shields.io/badge/IDE-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white)
 ![](https://img.shields.io/badge/Tools-git-informational?style=flat&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white)
+
+
+**fabiencrtn/fabiencrtn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
