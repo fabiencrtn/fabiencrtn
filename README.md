@@ -2,9 +2,9 @@
 
 # Projects
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiencrtn&hide=jupyter%20notebook)](https://github.com/fabiencrtn/)
+#[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiencrtn&hide=jupyter%20notebook)](https://github.com/fabiencrtn/)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=&repo=)]()
+#[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=&repo=)]()
 
 # Tools
 
